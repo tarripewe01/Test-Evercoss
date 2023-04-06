@@ -1,17 +1,18 @@
 <h1>test_evercoss</h1>
 <hr><h2>General Information</h2>
-<hr><ul>
+<hr>
+<ul>
 <li>Ditujukan untuk proses test React Native di PT Evercoss</li>
-</ul><ul>
-<li>
-<ol>
-<li>Aplikasi yang menampilkan list film beserta detailnya</li>
-</ol>
-</li>
 </ul>
-<ol start="2">
+<ul>
+<li>Aplikasi yang menampilkan list film beserta detailnya</li>
+</ul>
+<ul>
 <li>Menggunakan props dan Flatlist</li>
+</ul>
+<ul>
 <li>Menggunakan komponen yang menerima prop string dan mengembalikan teks dalam bentuk huruf kapital</li>
+</ul>
 </ol><h2>Technologies Used</h2>
 <hr><ul>
 <li>React Native</li>
